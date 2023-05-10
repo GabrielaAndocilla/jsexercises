@@ -1,6 +1,6 @@
 # About this project 
 
-This is a project about javaScript that have a file about how to resolve the following excercises:
+This is a project made on javaScript that have a file about how to resolve the following excercises:
 
 ## 1 - Non-Constructible Change
 
@@ -95,7 +95,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
 ## How to Run
 
-1. Open a terminal and navigate to the directory where the `GabriellaAndocilla.js` file is located.
+1. Open a terminal and navigate to the directory where the `resolution.js` file is located.
 
 2. Run the `resolution.js` file using Node.js:
 
